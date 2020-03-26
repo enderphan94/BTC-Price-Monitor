@@ -13,4 +13,4 @@ Cheer!
 
 # Execution
 
-Set it run in the backgroun as `main_btc_seeker.sh &`
+Set it run in the background with `main_btc_seeker.sh &`
