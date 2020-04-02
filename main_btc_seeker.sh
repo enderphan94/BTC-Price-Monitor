@@ -9,7 +9,7 @@ then
  #bot_api_token get from botfather after created
  #add bot to the channel as admin
  #see channel infor url to get the /[channel_name]
-
+ #A log channel should be created to monitor the failures
 fi
 
 sleep 5;
