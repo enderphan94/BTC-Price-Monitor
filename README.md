@@ -1,6 +1,6 @@
 # Crypto Signals - Binance/Futures
 
-Channels: https://t.me/joinchat/TY4CwLSzd_Q3MzBl
+Channel: https://t.me/joinchat/TY4CwLSzd_Q3MzBl
 
 Functions: 
 
